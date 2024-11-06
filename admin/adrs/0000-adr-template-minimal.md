@@ -1,23 +1,16 @@
-# {short title, representative of solved problem and found solution}
+# Selecting an Approach for Developing a Web-Based Dev Toolkit
 
 ## Context and Problem Statement
 
-{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}
+Our group needed to decide on the best approach for creating a web-based development toolkit
 
 ## Considered Options
 
-* {title of option 1}
-* {title of option 2}
-* {title of option 3}
-* … <!-- numbers of options can vary -->
+* Greenfield Development
+  - Building the toolkit from scratch, allowing for full control over architecture and features
+* Brownfield Development
+  - Starting with an existing repository, adding and modifying features to meet our toolkit requirements.
 
 ## Decision Outcome
 
-Chosen option: "{title of option 1}", because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.
-
-<!-- This is an optional element. Feel free to remove. -->
-### Consequences
-
-* Good, because {positive consequence, e.g., improvement of one or more desired qualities, …}
-* Bad, because {negative consequence, e.g., compromising one or more desired qualities, …}
-* … <!-- numbers of consequences can vary -->
+Chosen option: "Greenfield Development", as it provided full control over the architecture, enabling us to implement features exactly as needed without restrictions from existing structures. This approach best matched our goal of building a toolkit tailored to our specifications, with a particular emphasis on supporting backend developers. While the brownfield approach presented its own advantages and disadvantages, after thorough brainstorming and research, we reached a consensus to start from scratch due to the broader scope of possibilities and greater creative freedom this option offered.
