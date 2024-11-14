@@ -19,4 +19,4 @@ Our group needed to decide on what file structure to use to start working on our
 ## Decision Outcome
 
 Chosen option: React-like Design
-Decided against the IFrame deisgn because Iframe creates a new tab everytime and can lead to wasted resources. Hence, the react-like structure was chosen for now.
+Decided against the IFrame deisgn because Iframe creates a new tab everytime and can lead to wasted resources. Hence, we will move on from that structure and continue to explore the react-like structure and potentially other newer ones.
