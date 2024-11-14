@@ -26,7 +26,7 @@
 
 
 ### Key Takeaways
-- **Action Items by 12/07/24**
+- **Action Items by 11/07/24**
   - More user stories (Assigned to: Hailey)
   - Testing tech stack decision
   - Rework the Gantt timeline to Github
