@@ -1,6 +1,6 @@
 ## Sprint 0 Review Meeting
 ### Date
-- **Date of Meeting:** 12/06/24
+- **Date of Meeting:** 11/06/24
 
 ### Meeting Details
 - **Sprint Number:** 0
