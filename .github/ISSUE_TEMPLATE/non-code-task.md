@@ -1,4 +1,11 @@
-<!-- Non-coding task template -->
+---
+name: Non-coding Task
+about: Describe what task needs to get done
+title: ''
+labels: ''
+assignees: ''
+
+---
 
 ### Description
 *A clear and concise description of what needs doing.*
