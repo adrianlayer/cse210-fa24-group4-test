@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-### Description
+**Description**
 *A clear and concise description of what needs doing.*
 
-### Steps to finish
+**Steps to finish**
 1. 
 2. 
 3. 
 
-### Additional Information
-*Any relevant notes, screenshots, or other details.*
+**Additional Context**
+*Any relevant notes, requests, or other details.*
